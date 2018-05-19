@@ -1,6 +1,6 @@
 {
-    "name": "socket.io-client"
-  , "description": "Socket.IO client for the browser and node.js"
+    "name": "socket.io-client-0.9"
+  , "description": "Socket.IO client version 0.9 for the browser and node.js"
   , "version": "0.9.17"
   , "main" : "./lib/io.js"
   , "browserify": "./dist/socket.io.js"
